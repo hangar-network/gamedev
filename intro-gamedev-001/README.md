@@ -1,101 +1,107 @@
-# Botafogo EspaÁo de Estudos
+# Botafogo Espa√ßo de Estudos
 
-## Curso de IntroduÁ„o de Desenvolvimento de Jogos
+## Curso de Introdu√ß√£o de Desenvolvimento de Jogos
 
-#### Professor: [Rafael Giordanno]()
+#### Professor: [Rafael Giordanno](https://sheetcoldgames.wordpress.com/games/)
 
 ### Ementa do Curso
 
-InÌcio das aulas: ??
+In√≠cio das aulas: ??
 
 **I - Aula 01 - O que constitui o desenvolvimento de jogos e o primeiro
-protÛtipo**
+jogo**
 
-1. ApresentaÁ„o do curso e escopo
-2. A cena dos jogos independentes
-3. InstalaÁ„o do Unity e Visual Studio
-4. ApresentaÁ„o do projeto que ser· desenvolvido ao longo do curso
-5. ApresentaÁ„o da Unity e sua funÁ„o no desenvolvimento de jogos
-7. CriaÁ„o do protÛtipo
+1. Apresenta√ß√£o do curso e escopo
+2. A cena dos jogos AAA e dos jogos independentes
+3. Como escolher a melhor √°rea de desenvolvimento de jogos para focar e trabalhar
+4. A import√¢ncia da comunidade e divulga√ß√£o precoce dos jogos
+5. Instala√ß√£o do Unity e Visual Studio
+6. Pong vs. Breakout - planejando as regras do jogo
+7. F√≠sica embutida vs. Raycasting - familiariza√ß√£o com a ferramenta
+8. Exportando o nosso projeto para PCs e Web
+9. Definindo o projeto da semana final
 
-**II - Aula 02 - Revisando o primeiro protÛtipo, conhecendo o p˙blico-alvo e
-adicionando arte**
+**II - Aula 02 - Avalia√ß√£o do primeiro jogo e cria√ß√£o do segundo jogo**
 
-1. Criticando o que foi proposto: play testing e iteraÁ„o
-2. Finalizando o nosso protÛtipo
-3. Publicidade e divulgaÁ„o tambÈm fazem parte do processo
-4. Adicionando personalidade ao nosso protÛtipo
-5. Reconhecendo o tipo de arte que o jogo precisa
-6. Como inserir animaÁıes e cen·rios na Unity
+1. Apresenta√ß√£o e cr√≠tica do nosso primeiro jogo: play testing e itera√ß√£o
+2. Criticando jogos j√° desenvolvidos
+3. Planejando o nosso segundo prot√≥tipo
+4. Como resolver problemas t√©cnicos e adaptando nossos jogos √† nossa t√©cnica
+5. Inserindo arte 2D ao nosso jogo
+6. An√°lise do andamento do projeto da semana final
 
-**III - Aula 03 - Tornando as coisas um pouco mais profissionais: o "game
-feel"**
+**III - Aula 03 - An√°lise do segundo jogo e desenvolvimento do terceiro**
 
-1. O que caracteriza o game feel e como ele pode melhorar o seu jogo
-2. AnimaÁıes e efeitos que d„o mais vida ao jogo
-3. M˙sica e efeitos sonoros. Como eles podem melhorar ou destruir o seu jogo
-4. A import‚ncia das interfaces gr·ficas de usu·rio e reconhecer a melhor para o
+1. Apresenta√ß√£o e cr√≠tica do nosso segundo jogo
+2. A import√¢ncia das interfaces gr√°ficas de usu√°rio e reconhecer a melhor para o
    seu jogo
-5. IntroduÁ„o do projeto pessoal da ˙ltima semana e dicas de game design
+3. Criticando jogos j√° desenvolvidos
+4. Analisando a f√≠sica e a matem√°tica requerida para jogos mais complexos
+5. Planejando o terceiro prot√≥tipo
+6. Aplicando o que foi aprendido em nosso terceiro prot√≥tipo
+7. An√°lise do projeto da semana final e dicas para completar o jogo
 
-**IV - Aula 04 - ApresentaÁ„o dos projetos pessoais e colocando no mercado**
+**IV - Aula 04 - Apresenta√ß√£o dos projetos pessoais e colocando no mercado**
 
-1. Como exportar o seu jogo feito e concluÌdo na Unity?
-2. Onde divulgar os seus jogos feitos e como conseguir acesso a outras
+1. Analisando e criticando os nossos jogos desenvolvidos
+2. Toques finais antes do lan√ßamento de nosso projeto
+3. Onde divulgar os seus jogos feitos e como conseguir acesso a outras
    plataformas.
-3. ApresentaÁ„o dos jogos do projeto pessoal da ˙ltima semana.
-4. Terminei o meu jogo. E agora?
-5. An˙ncio da game jam do EspaÁo
+3. Apresenta√ß√£o dos jogos do projeto pessoal da √∫ltima semana.
+4. "Terminei" o meu jogo. E agora?
+5. An√∫ncio da game jam do Espa√ßo
 
 
 ### Resultados Esperados:
 
-Ao fim do curso, È esperado que o aluno tenha conhecimento sobre:
+Ao fim do curso, √© esperado que o aluno tenha conhecimento sobre:
 
-* O cen·rio de jogos AAA, independentes e onde ele se encaixa.
-* Quais s„o os diferentes papeis e como eles s„o exercidos no desenvolvimento
+* O cen√°rio de jogos AAA, independentes e onde ele se encaixa.
+* Quais s√£o os diferentes papeis e como eles s√£o exercidos no desenvolvimento
   de um jogo.
-* O processo iterativo de criaÁ„o de jogos para uma equipe pequena.
-* Reconhecer como ·udio e imagem s„o criados para melhorar a experiÍncia e lidar
-  com limitaÁıes ao criar as suas prÛprias.
+* O processo iterativo de cria√ß√£o de jogos para uma equipe pequena.
+* Reconhecer como √°udio e imagem s√£o criados para melhorar a experi√™ncia e lidar
+  com limita√ß√µes ao criar as suas pr√≥prias.
+* Aprender como trabalhar com a Unity para desenvolver suas pr√≥prias ideias de jogo
+  e como resolver problemas com a ferramenta
 * Divulgar nas redes sociais e construir uma comunidade ao redor do seu jogo.
-* Como se aproximar de uma ideia ambiciosa e construir jogos que se adaptem ‡
-  sua limitaÁ„o.
+* Como se aproximar de uma ideia ambiciosa e construir jogos que se adaptem √†
+  sua limita√ß√£o.
 
 
-### ObservaÁıes
+### Observa√ß√µes
 
-1. Unity È o principal motor de jogos no mercado atualmente, seguido pela Unreal
-   Engine, GameMaker e uuma infinidade de outras. A raz„o por ter escolhido a
-   Unity n„o È apenas o seu amplo uso comunit·rio, mas a sua capacidade de
+1. Unity √© o principal motor de jogos no mercado atualmente, seguido pela Unreal
+   Engine, GameMaker e uma infinidade de outras. A raz√£o por ter escolhido a
+   Unity n√£o √© apenas o seu amplo uso comunit√°rio, mas a sua capacidade de
    publicar o jogo para virtualmente todas as plataformas mais relevantes do
    mercado: Desktop (Windows, Mac e Linux), Web, Mobile (iOS, Android e Windows 
    Phone), PS3, PS4, Xbox 360, Xbox One, Wii U e 
-   [muitas outras](https://unity3d.com/pt/unity/multiplatform). Como esse È um
-   curso de desenvolvimento de jogos, n„o importa qual plataforma ser· usada. O
-   curso procura ensinar como a Unity lida com esses problemas, mas o foco È
+   [muitas outras](https://unity3d.com/pt/unity/multiplatform). Como esse √© um
+   curso de desenvolvimento de jogos, n√£o importa qual plataforma ser√° usada. O
+   curso procura ensinar como a Unity lida com esses problemas, mas o foco √©
    inteiramente voltado em ensinar como um desenvolvidor encara os problemas
    independente da ferramenta utilizada. Tenha em mente que qualquer que seja a
-   sua ideia plausÌvel de jogo, a Unity È completamente capaz de tornar a sua
+   sua ideia plaus√≠vel de jogo, a Unity √© completamente capaz de tornar a sua
    ideia realidade. Outras ferramentas que podem valer a pena o investimento de
-   tempo s„o a 
+   tempo s√£o a 
    [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) e o 
-   [GameMaker](http://www.yoyogames.com/gamemaker). As principais diferenÁas
-   entre eles est„o nas linguagens de programaÁ„o utilizadas e na forma como
+   [GameMaker](http://www.yoyogames.com/gamemaker). As principais diferen√ßas
+   entre eles est√£o nas linguagens de programa√ß√£o utilizadas e na forma como
    abstraem qualquer projeto de jogo.
 
-2. O curso possui tarefas que dever„o ser desenvolvidas em casa, nenhuma delas
-   pretende sobrecarregar o seu tempo livre durante a semana. PorÈm, entre a
-   terceira e quarta semanas haver· uma projeto livre que testar· o que foi
-   aprendido no curso e demonstrar· como colocar seu jogo online para que o
-   grande p˙blico possa jog·-lo. Obviamente, essas etapas n„o ser„o
-   obrigatÛrias, mas fazem parte da ementa do curso e, portanto, ser„o
+2. O curso possui tarefas que dever√£o ser desenvolvidas em casa, nenhuma delas
+   pretende sobrecarregar o seu tempo livre durante a semana. Por√©m, ser√° apresentado
+   um projeto livre que testar√° o que foi
+   aprendido no curso e demonstrar√° como colocar seu jogo online para que o
+   grande p√∫blico possa jog√°-lo. Obviamente, essas etapas n√£o ser√£o
+   obrigat√≥rias, mas fazem parte da ementa do curso e, portanto, ser√£o
    apresentadas.
 
-3. Obviamente, um jogo praticado em aula n„o lhe transformar· em um expert da
-   ·rea de desenvolvimento de jogos ou atÈ mesmo em um desenvolvedor de jogos,
+3. Obviamente, jogos praticados em aula n√£o lhe transformar√£o em um expert da
+   √°rea de desenvolvimento de jogos ou at√© mesmo em um desenvolvedor de jogos,
    propriamente dito. Mas esperamos que as regras, dicas e projetos
-   compartilhados nesse curso gerem interesse ‡queles que gostariam de trabalhar
-   com jogos ou desenvolver outras ·reas (programaÁ„o e arte) fazendo uso de
+   compartilhados nesse curso gerem interesse √†queles que gostariam de trabalhar
+   com jogos ou desenvolver outras √°reas (programa√ß√£o e arte) fazendo uso de
    ferramentas voltadas para o desenvolvimento de jogos.
 
