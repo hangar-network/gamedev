@@ -6,7 +6,11 @@
 
 ### Ementa do Curso
 
-Início das aulas: ??
+Início das aulas: 25/05/2016
+
+Frequência das aulas:
+* Quarta-feira: 18:30 às 21:00
+* Sábado: 09:30 às 12:00
 
 **I - Aula 01 - O que constitui o desenvolvimento de jogos e o primeiro
 jogo**
