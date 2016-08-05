@@ -7,7 +7,7 @@
 ### Ementa do Curso
 
 
-Início das aulas: 25/05/2016
+Início das aulas: 10/05/2016
 
 Frequência das aulas:
 * Quarta-feira: 18:30 às 21:00
